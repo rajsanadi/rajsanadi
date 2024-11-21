@@ -169,6 +169,4 @@ Enthusiastic **Computer Engineering** graduate with a strong foundation in **Ful
 
 <!-- Footer with Fun Fact or Quote -->
 ---
-<p align="center">
-  "Striving not to be a success, but rather to be of value." - Albert Einstein
-</p>
+
